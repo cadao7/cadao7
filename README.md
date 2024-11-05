@@ -23,6 +23,10 @@
 <p align="center">🤖 <a href="https://sonho.digital" target="_blank">Sonho Digital</a></p>
 
 <hr>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cadao7&show_icons=true&theme=dark&locale=pt-br" alt="Estatísticas do GitHub" />
+</p>
+
 <div align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cadao7&show_icons=true&theme=dark&locale=pt-br&layout=compactt" alt="cadao7" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cadao7&show_icons=true&theme=dark&locale=pt-br" alt="cadao7" /></p>
