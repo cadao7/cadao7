@@ -26,7 +26,7 @@
 
 <div align="center">
 <!--   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cadao7&show_icons=true&theme=dark&locale=pt-br&layout=compactt" alt="cadao7" /></p> -->
-  <p align="center">📦 Total de Repositórios: <b>50 (4 públicos + 46 privados)</b></p>
+  <p align="center">📦 Total de Repositórios: <b>64 (4 públicos + 60 privados)</b></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cadao7&show_icons=true&theme=dark&locale=pt-br" alt="cadao7" /></p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=cadao7&theme=whatsapp-dark2&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=534" alt="GitHub Streak" /></a>
 </div>
