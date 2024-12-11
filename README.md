@@ -19,7 +19,7 @@
 <p align="center">MySQL, PostgreSQL, Redis, Firebase, SQLite</p>
 
 <br>
-<p align="center">📫 E-mail <b>contato@sonho.digital</b></p>
+<p align="center">📫 E-mail <b>ricardo.maminhak@gmail.com</b></p>
 <p align="center">🤖 <a href="https://sonho.digital" target="_blank">Sonho Digital</a></p>
 
 <hr>
