@@ -135,9 +135,9 @@ graph TD
 
 <div align="center">
 
-### 💭 Citação Aleatória
+### 📖 Versículo do Dia
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Versículo](https://github-readme-bible-verse.vercel.app/api?theme=tokyonight)](https://bible.com)
 
 ### 🎵 Spotify Playing
 
