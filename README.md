@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Ricardo Maminhak (CADÃO)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+FullStack;Especialista+em+ChatBots;Agents+AI;Entusiasta+Linux;Gamer+%F0%9F%8E%AE+(Dota+2)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+FullStack;Especialista+em+ChatBots;Entusiasta+Linux;Gamer+%F0%9F%8E%AE+(Dota+2)" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=cadao7&label=Visualizações&color=00d9ff&style=for-the-badge)](https://github.com/cadao7)
 
@@ -82,10 +82,12 @@ graph TD
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cadao7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cadao7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadao7&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
+
+> 💡 **Nota**: As estatísticas mostram apenas repositórios públicos. A maior parte do meu trabalho está em projetos privados!
 
 <div align="center">
 
@@ -121,8 +123,10 @@ graph TD
 ### 🎯 Estatísticas do Repositório
 ```
 📦 Total de Repositórios: 93
-🔓 Públicos: 11
+🔓 Públicos: 11  
 🔒 Privados: 82
+💼 Projetos Comerciais: Maioria privada por questões de confidencialidade
+🏢 Trabalho: Foco em soluções corporativas e automações
 ```
 
 </div>
