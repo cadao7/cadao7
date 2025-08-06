@@ -120,9 +120,9 @@ graph TD
 
 ### 🎯 Estatísticas do Repositório
 ```
-📦 Total de Repositórios: 64
-🔓 Públicos: 4
-🔒 Privados: 60
+📦 Total de Repositórios: 93
+🔓 Públicos: 11
+🔒 Privados: 82
 ```
 
 </div>
