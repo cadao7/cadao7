@@ -15,8 +15,9 @@
 <p align="center">🔭 Trabalhando com <b>ChatBots e automações para Whatsapp</b> <i>(Baileys, Whatsmeow, Meta cloud API)</i></p>
 <br>
 <p align="center">💻 <b>Skills</b></p>
-<p align="center">Desenvolvimento FullStack com Docker, Node.js, React, Next.js, Linux, RestAPI, Python, etc...</p>
+<p align="center">Desenvolvimento FullStack com Docker, Node.js, React, Next.js, RestAPI, Python, etc...</p>
 <p align="center">MySQL, PostgreSQL, Redis, Firebase, SQLite</p>
+<p align="center">Server: Windows / Linux</p>
 
 <br>
 <p align="center">📫 E-mail <b>ricardo.maminhak@gmail.com</b></p>
