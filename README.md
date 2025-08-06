@@ -149,10 +149,6 @@ Provérbios 3:5-6 - "Confia no Senhor de todo o teu coração..."
 Isaías 40:31 - "Os que esperam no Senhor renovam suas forças..."
 -->
 
-### 🎵 Spotify Playing
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
-
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
