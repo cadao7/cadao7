@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Ricardo Maminhak (CADÃO)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+FullStack;Especialista+em+ChatBots;Entusiasta+Linux;Gamer+%F0%9F%8E%AE+(Dota+2)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+FullStack;Especialista+em+ChatBots;Agents AI;Entusiasta+Linux;Gamer+%F0%9F%8E%AE+(Dota+2)" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=cadao7&label=Visualizações&color=00d9ff&style=for-the-badge)](https://github.com/cadao7)
 
