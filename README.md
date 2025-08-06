@@ -138,18 +138,12 @@ graph TD
 ### 📖 Versículo do Dia
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Posso%20todas%20as%20coisas%20naquele%20que%20me%20fortalece&author=Filipenses%204:13" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=You%20will%20keep%20in%20perfect%20peace%20those%20whose%20minds%20are%20steadfast,%20because%20they%20trust%20in%20you.&author=Isaiah%2026:3" />
 </div>
 
-<!-- Versículos rotativos - atualize manualmente quando quiser -->
-<!-- Outras opções:
-João 3:16 - "Porque Deus amou o mundo de tal maneira..."
-Salmos 23:1 - "O Senhor é o meu pastor, nada me faltará"  
-Provérbios 3:5-6 - "Confia no Senhor de todo o teu coração..."
-Isaías 40:31 - "Os que esperam no Senhor renovam suas forças..."
--->
+<!-- Para automatizar: crie um script que busque um versículo aleatório da Bible API e atualize esse link com o novo texto e referência -->
+<!-- Isso pode ser feito com GitHub Actions ou backend próprio -->
 
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
