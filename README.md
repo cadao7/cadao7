@@ -137,7 +137,17 @@ graph TD
 
 ### 📖 Versículo do Dia
 
-[![Versículo](https://github-readme-bible-verse.vercel.app/api?theme=tokyonight)](https://bible.com)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Posso%20todas%20as%20coisas%20naquele%20que%20me%20fortalece&author=Filipenses%204:13" />
+</div>
+
+<!-- Versículos rotativos - atualize manualmente quando quiser -->
+<!-- Outras opções:
+João 3:16 - "Porque Deus amou o mundo de tal maneira..."
+Salmos 23:1 - "O Senhor é o meu pastor, nada me faltará"  
+Provérbios 3:5-6 - "Confia no Senhor de todo o teu coração..."
+Isaías 40:31 - "Os que esperam no Senhor renovam suas forças..."
+-->
 
 ### 🎵 Spotify Playing
 
