@@ -14,7 +14,6 @@
 
 ```javascript
 const ricardo = {
-    pronouns: "ele/him",
     location: "Brasil 🇧🇷",
     currentFocus: "ChatBots e Automações para WhatsApp",
     technologies: {
