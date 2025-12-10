@@ -117,7 +117,7 @@ graph TD
 ### 📫 Entre em Contato
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardo.maminhak@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sonho.digital)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://1mm.com.br)
 
 ### 🎯 Estatísticas do Repositório
 ```
